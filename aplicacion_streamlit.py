@@ -129,7 +129,7 @@ def cargar_excels(lista_excels):
 # =====================================================
 @st.cache_data
 def cargar_datos_delitos():
-    df = pd.read_excel(path + "\datos_criminalidad_espana_WIDE.xlsx")
+    df = pd.read_excel(path + "datos_criminalidad_espana_WIDE.xlsx")
     columnas_num = ['Abril-Junio2023', 'Enero-Marzo2023', 'Julio-Septiembre2023', 'Octubre-Diciembre2023',
                     'Abril-Junio2022', 'Enero-Marzo2022', 'Julio-Septiembre2022', 'Octubre-Diciembre2022',
                     'Total_2023', 'Total_2022', 'Variación_total_2023_2022']
@@ -247,9 +247,6 @@ elif opcion == "Mapa de España":
     # -------------------------
     # 1. Cargar datos
     # -------------------------
-
-    path = os.getcwd()
-    path = path + "\\data\\"
 
     path_data = fr"{path}datos_criminalidad_espana_WIDE.xlsx"
     df = pd.read_excel(path_data)
