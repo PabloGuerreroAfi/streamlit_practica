@@ -23,7 +23,61 @@ path = path + "\\data\\"
 EXCEL_FILES = [
     f"{path}melilla_datos_rentas.xlsx",
     f"{path}valencia_valència_datos_rentas.xlsx",
+    f"{path}almería_datos_rentas.xlsx",
+
+    f"{path}albacete_datos_rentas.xlsx",
+    f"{path}alicante_alacant_datos_rentas.xlsx",
+    f"{path}araba_álava_datos_rentas.xlsx",
+    f"{path}asturias_datos_rentas.xlsx",
+    f"{path}avila_datos_rentas.xlsx",
+    f"{path}badajoz_datos_rentas.xlsx",
+
+    f"{path}balears illes_datos_rentas.xlsx",
+    f"{path}barcelona_datos_rentas.xlsx",
+    f"{path}bizkaia_datos_rentas.xlsx",
+    f"{path}cáceres_datos_rentas.xlsx",
+    f"{path}cádiz_datos_rentas.xlsx",
+    f"{path}cantabria_datos_rentas.xlsx",
+    f"{path}badajoz_datos_rentas.xlsx",
+    f"{path}castellón_castelló_datos_rentas.xlsx",
     f"{path}ceuta_datos_rentas.xlsx",
+    f"{path}ciudad real_datos_rentas.xlsx",
+    
+    f"{path}córdoba_datos_rentas.xlsx",
+    f"{path}coruña a_datos_rentas.xlsx",
+    f"{path}cuenca_datos_rentas.xlsx",
+    f"{path}gipuzkoa_datos_rentas.xlsx",
+
+    f"{path}girona_datos_rentas.xlsx",
+    f"{path}granada_datos_rentas.xlsx",
+    f"{path}guadalajara_datos_rentas.xlsx",
+    f"{path}huelva_datos_rentas.xlsx",
+    f"{path}huesca_datos_rentas.xlsx",
+    f"{path}jaén_datos_rentas.xlsx",
+    f"{path}león_datos_rentas.xlsx",
+    f"{path}lleida_datos_rentas.xlsx",
+    f"{path}lugo_datos_rentas.xlsx",
+    f"{path}madrid_datos_rentas.xlsx",
+
+    f"{path}málaga_datos_rentas.xlsx",
+    f"{path}murcia_datos_rentas.xlsx",
+    f"{path}navarra_datos_rentas.xlsx",
+    f"{path}ourense_datos_rentas.xlsx",
+    f"{path}palencia_datos_rentas.xlsx",
+    f"{path}palmas las_datos_rentas.xlsx",
+    f"{path}pontevedra_datos_rentas.xlsx",
+    f"{path}rioja la_datos_rentas.xlsx",
+    f"{path}salamanca_datos_rentas.xlsx",
+    f"{path}santa cruz de tenerife_datos_rentas.xlsx",
+    f"{path}segovia_datos_rentas.xlsx",
+    f"{path}sevilla_datos_rentas.xlsx",
+
+    f"{path}tarragona_datos_rentas.xlsx",
+    f"{path}teruel_datos_rentas.xlsx",
+    f"{path}toledo_datos_rentas.xlsx",
+    f"{path}valladolid_datos_rentas.xlsx",
+    f"{path}zamora_datos_rentas.xlsx",
+    f"{path}zaragoza_datos_rentas.xlsx"
 ]
 
 # =====================================================
