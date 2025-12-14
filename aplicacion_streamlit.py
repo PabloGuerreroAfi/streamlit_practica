@@ -15,7 +15,7 @@ st.title("Dashboard de Delitos y Renta en España")
 st.markdown("Aplicación interactiva para visualizar datos de criminalidad y renta por comunidad, provincia y municipio.")
 
 path = os.getcwd()
-path = path + "\\data\\"
+path = path + "/data/"
 
 # =====================================================
 # LISTA DE EXCELS DE RENTAS
